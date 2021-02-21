@@ -12,6 +12,6 @@ In the SpotifyTwitterBot.java file, replace the stars with your API keys found a
 Run the main method of the Scheduled Task.java file.
 
 
-The bot will tweet the top 5 songs on Spotify of that day at 12pm until the program terminates.
+The bot will tweet the top 5 songs of that day on Spotify at 12pm every day.
 
 
