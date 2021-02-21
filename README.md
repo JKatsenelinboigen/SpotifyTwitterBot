@@ -1,6 +1,6 @@
 #Spotify Twitter Bot
 
-<h1>JavaTwitter Bot to Tweet Top 5 Daily Songs on Spotify</h1>
+<h1>Java Twitter Bot to Tweet Top 5 Daily Songs on Spotify</h1>
 <h2>HackHERS Competition - Rutgers University - 2021</h2>
 <h3>Varsha Balaji, Joseph Katsenelinboigen, Olivia Thiel</h3>
 
