@@ -5,7 +5,7 @@
 <h3>Varsha Balaji, Joseph Katsenelinboigen, Olivia Thiel</h3>
 
 
-To run the bot, download the repository, including the twitter4j module in the lib folder. Run the main method of the Scheduled Task.java file
+To run the bot, download the repository, including the twitter4j module in the lib folder. Run the main method of the Scheduled Task.java file.
 Documentation for the twitter4j API can be found here: http://twitter4j.org/en/
 
 The bot will tweet the top 5 songs on Spotify of that day at 12pm until the program terminates.
